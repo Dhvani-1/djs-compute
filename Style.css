@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(196, 189, 189);
+}
+#title, #description {
+  text-align: center;
+}
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+label {
+  display: block;
+  margin: 15px 0;
+}
+.suggestion {
+  width: 300px;
+  height: 100px;
+}
